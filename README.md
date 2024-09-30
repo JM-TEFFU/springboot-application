@@ -17,6 +17,6 @@ Make sure you have the following installed on your machine:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/springboot-maven-practice.git
+git clone https://github.com/JM-TEFFU/springboot-application.git
 
 ```
